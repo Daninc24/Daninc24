@@ -1,28 +1,74 @@
-# Hi there, I'm Daninc24 👋
+👋 Hi there, I'm Daninc24
 
-I'm a passionate **Full Stack Developer** with expertise in building robust and scalable applications from front to back. I love turning ideas into reality using code and have a keen interest in all the projects on my GitHub.
+I'm a passionate Full Stack Developer who loves turning ideas into scalable, production-ready systems. I enjoy building both the frontend and backend, solving real problems with code, and constantly upgrading my skills — including completing Harvard’s CS50.
 
-## 🛠️ Skills & Technologies
-- **Languages:** JavaScript, TypeScript, Python, Java, HTML, CSS
-- **Frontend:** ReactJS
-- **Backend:** Node.js, ExpressJS
-- **Databases:** MongoDB, MySQL
+🧠 About Me
 
-## 💡 What I Do
-- Build end-to-end web applications
-- Design seamless user experiences
-- Solve complex technical problems
-- Debug and optimize code (debugging is my hobby!)
+💻 Full Stack Developer (MERN + Java + TypeScript ecosystems)
 
-## 🚀 Projects
-Check out all my repositories—each one reflects my enthusiasm for learning, coding, and solving real-world problems.
+🎓 CS50 Certified — strong foundations in computer science, algorithms & C programming
 
-## 👨‍💻 About Me
-- I enjoy coding in my free time and take pride in debugging challenging issues.
-- Always eager to learn new technologies and contribute to interesting projects.
+⚡ I enjoy debugging, system design, and building efficient backend architectures
 
-<!-- If you want to add social links, let me know! -->
+🧪 Currently exploring: Cloud deployments, advanced Node.js, and scalable microservices
 
----
+🛠️ Skills & Technologies
+Languages
 
-_Thanks for visiting my profile!_
+JavaScript • TypeScript • Python • C (via CS50) • Java • HTML • CSS
+
+Frontend
+
+React.js • Vite • Tailwind CSS
+
+Backend
+
+Node.js • Express.js • REST APIs • Authentication • JWT • WebSockets
+
+Databases
+
+MongoDB • MySQL • Mongoose ORM
+
+Other
+
+Git & GitHub • Docker (learning) • CI/CD • Linux/WSL
+
+Strong foundation in algorithms, memory, data structures (thanks CS50!)
+
+📚 CS50 Work
+
+Completed CS50x: Introduction to Computer Science
+
+Problem Sets in C, Python, SQL
+
+Implemented: credit, mario, caesar, substitution, speller, filter, tideman, and more
+
+Final project: (add yours here — tell me if you want help writing it nicely!)
+
+Gained strong fundamentals in:
+
+Algorithms
+
+Data structures (linked lists, tries, hash tables)
+
+Memory management
+
+Debugging with gdb & valgrind
+
+Compiling with make and understanding the C toolchain
+
+🚀 Projects
+
+Check out my repositories — each one reflects:
+
+Learning new technologies
+
+Building full-stack apps end-to-end
+
+Writing clean, maintainable code
+
+Applying CS50 foundations to real-world development
+
+📫 Let’s Connect
+
+Feel free to explore my work or reach out for collaborations!

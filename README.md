@@ -43,8 +43,6 @@ Problem Sets in C, Python, SQL
 
 Implemented: credit, mario, caesar, substitution, speller, filter, tideman, and more
 
-Final project: (add yours here — tell me if you want help writing it nicely!)
-
 Gained strong fundamentals in:
 
 Algorithms
